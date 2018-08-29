@@ -1,4 +1,4 @@
-# Purpose
+# ZDSearch
 
 This is a very simple CLI for conducting searches on
 * Tickets
