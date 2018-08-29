@@ -1,9 +1,9 @@
-# ZDSearch
+# Purpose
 
 This is a very simple CLI for conducting searches on
-* Tickets
-* Users and
-* Organisations
+..* Tickets
+..* Users and
+..* Organisations
 
 ## Dependencies
 ZDSearch requires Ruby to run
@@ -35,7 +35,7 @@ Run the tests
 OR
 
 	$ bundle exec rspec		
-
+		
 ## Usage
 
 ### Run the help command
@@ -99,5 +99,4 @@ To install this gem onto your local machine, run `bundle exec rake install`.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/ladyshyka/zdsearch.
-
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/untitled1.
