@@ -5,9 +5,36 @@ This is a very simple CLI for conducting searches on
 * Users and
 * Organisations
 
+## Dependencies
+ZDSearch requires Ruby to run
+
+Install [Homebrew](https://brew.sh/)
+
+Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+
+	$ brew install ruby
+
+Install [Bundler](http://bundler.io/)
+
+	$ gem install bundler
+
 ## Installation
 
+Clone ZDSearch Git repository
 
+	$ git clone git@github.com:ladyshyka/zdsearch.git
+
+Install zdsearch locally
+
+	$ bundle exec rake install
+	
+Run the tests
+	
+	$ bundle exec rake spec
+	
+OR
+
+	$ bundle exec rspec		
 
 ## Usage
 
